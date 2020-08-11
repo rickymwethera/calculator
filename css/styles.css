@@ -1,0 +1,21 @@
+body {
+    font-family: 'Architects Daughter', cursive;
+    background-color: black;
+}
+#container {
+    width: 1500px;
+    height: 900px;
+    background-color: #f8f8f8;
+    margin: 20px auto ;
+    
+}
+#calculator {
+    width: 500px;
+    height: 800px;
+    background-color: gray; 
+    margin: 0 auto;
+    top: 50px;
+    position: relative;
+    border-radius: 2rem;
+    
+}
