@@ -19,3 +19,32 @@ body {
     border-radius: 2rem;
     
 }
+#result {
+    height: 200px;
+}
+#keyboard {
+    height: 600px;
+}
+#history {
+    text-align: right;
+    height: 30px;
+    margin: 0 auto;
+    padding-top: 20px;
+    font-size: 20px;
+    color: honeydew;
+
+}
+#output {
+    text-align: right;
+    height: 70px;
+    margin: 10px 20px;
+    font-size: 40px;
+}
+.operator, .number, .empty {
+    float: left;
+    width: 93px;
+    height: 90px;
+    margin: 15px;
+    border-radius: 50%;
+    border-width: 0;
+}
