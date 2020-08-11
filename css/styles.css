@@ -82,3 +82,9 @@ button:nth-child(20){
 	font-size: 30px;
 	background-color: #9477af;
 }
+#txt {
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
